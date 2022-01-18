@@ -3,7 +3,9 @@
 Neste projeto pude utilizar os dados fornecidos pela empresa para ajudá-la a responder questões como:
 
 •	Quais são os fatores que influenciam um colaborador a deixar a empresa?
+
 •	Como reter pessoas?
+
 •	Como prever se um determinado colaborador vai deixar a empresa e qual a probabilidade de isso acontecer?
 
 Por fim, disponibilizar os recursos para que a empresa possa fazer a predição e verificar se um colaborador vai ou não deixar a empresa com base em atributos como comportamento e carga de trabalho, nível de satisfação com a empresa e avaliação de performance.
@@ -17,11 +19,17 @@ Após criação e configuração de toda essa estrutura, foi possível criar e m
 
 # Na etapa de análise exploratória dos dados foram descobertos insights importantes:
 •	A empresa tem uma rotatividade de 24%;
+
 •	Os colaboradores que mais deixam a empresa estão menos satisfeitos;
+
 •	A maioria dos empregados que saíram tinha salário baixo ou médio;
+
 •	O maior índice de turnover está nos departamentos de vendas, técnico e suporte;
+
 •	Empregados que estavam envolvidos em muitos projetos deixaram a empresa;
+
 •	Colaboradores com baixa performance tendem a deixar a empresa;
+
 •	Colaboradores insatisfeitos com a empresa tem uma tendência maior a sair.
 
 # A partir da análise, foi possível desenvolver 3 grupos distintos para agrupar colaboradores que deixaram a empresa com características similares, que são:
