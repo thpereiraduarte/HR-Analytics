@@ -19,7 +19,7 @@ from pycaret.classification import load_model, predict_model
 #client.fget_object("curated","dataset.csv","dataset.csv")
 #client.fget_object("curated","cluster.joblib","cluster.joblib")
 
-var_model = "model"
+var_model = "model.pkl"
 var_model_cluster = "cluster.joblib"
 var_dataset = "dataset.csv"
 
