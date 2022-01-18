@@ -1,0 +1,68 @@
+2022-01-16 21:31:40,431:INFO:Initializing load_model()
+2022-01-16 21:31:40,433:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:32:13,529:INFO:Initializing load_model()
+2022-01-16 21:32:13,529:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:27,019:INFO:Initializing load_model()
+2022-01-16 21:33:27,019:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:34,932:INFO:Initializing load_model()
+2022-01-16 21:33:34,932:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:45,318:INFO:Initializing load_model()
+2022-01-16 21:33:45,318:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:49,862:INFO:Initializing load_model()
+2022-01-16 21:33:49,862:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:57,021:INFO:Initializing load_model()
+2022-01-16 21:33:57,021:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:57,641:INFO:Initializing load_model()
+2022-01-16 21:33:57,641:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 21:33:57,745:INFO:Initializing predict_model()
+2022-01-16 21:33:57,745:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=7257)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-16 21:33:57,745:INFO:Checking exceptions
+2022-01-16 21:33:57,745:INFO:Preloading libraries
+2022-01-16 22:47:12,551:INFO:Initializing load_model()
+2022-01-16 22:47:13,657:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 22:48:46,976:INFO:Initializing load_model()
+2022-01-16 22:48:46,976:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
+2022-01-16 22:48:47,698:INFO:Initializing predict_model()
+2022-01-16 22:48:47,698:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      numerical_features=['yearsAtCompany'],
+                                      target='turnover')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(rep...
+                ('rem_outliers', 'passthrough'), ('cluster_all', 'passthrough'),
+                ('dummy', Dummify(target='turnover')),
+                ('fix_perfect', Remove_100(target='turnover')),
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 GradientBoostingClassifier(random_state=7257)]]), probability_threshold=None, encoded_labels=False, drift_report=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2022-01-16 22:48:47,829:INFO:Checking exceptions
+2022-01-16 22:48:47,829:INFO:Preloading libraries
+2022-01-17 17:51:29,958:INFO:Initializing load_model()
+2022-01-17 17:51:30,058:INFO:load_model(model_name=model, platform=None, authentication=None, verbose=True)
