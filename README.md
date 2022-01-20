@@ -52,9 +52,10 @@ Finalmente, para conseguir realizar a predição do turnover de determinado cola
 
 <img src="images/model.png">
 
-O algoritmo foi implementado em um aplicativo desenvolvido com Streamlit, para que os gestores tenham acesso rápido a essa predição apenas fazendo o input das características necessárias para obter o resultado.
+O algoritmo foi implementado em um aplicativo desenvolvido com Streamlit, para que os gestores tenham acesso rápido a essa predição apenas fazendo o input das características necessárias para obter o resultado:
 
 https://share.streamlit.io/thpereiraduarte/hr-analytics-app/main/app_online.py
+
 
 <img src="images/app.png">
 
