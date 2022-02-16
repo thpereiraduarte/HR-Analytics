@@ -48,11 +48,11 @@ Este grupo pode indicar os empregados que deixaram a empresa porque encontraram 
 
 <img src="images/clusters123.png">
 
-Finalmente, para conseguir realizar a predição do turnover de determinado colaborador, foi implementado um modelo utilizando o algoritmo Gradient Boost Classifier, que atingiu uma performance AUC de 0.77.
+Finalmente, para conseguir realizar a predição do turnover de determinado colaborador, foi implementado o modelo Gradient Boost Classifier, que atingiu uma performance AUC de 0.77.
 
 <img src="images/model.png">
 
-O algoritmo foi implementado em um aplicativo desenvolvido com Streamlit, para que os gestores tenham acesso rápido a essa predição apenas fazendo o input das características necessárias para obter o resultado:
+O modelo foi implementado em um aplicativo desenvolvido com Streamlit, para que os gestores tenham acesso rápido a essa predição apenas fazendo o input das características necessárias para obter o resultado:
 
 https://share.streamlit.io/thpereiraduarte/hr-analytics-app/main/app_online.py
 
